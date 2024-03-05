@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fugit nihil totam aliquam accusamus dignissimos blanditiis! Odit officia reprehenderit deleniti laudantium doloribus nobis cumque minus quasi iste nisi quis, dolorum, fuga saepe mollitia, ipsum quia a veritatis aliquam dolore voluptatem tenetur! Corporis quidem hic molestiae dolor libero excepturi, ab ratione sunt cupiditate illum amet.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "new blog2",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fugit nihil totam aliquam accusamus dignissimos blanditiis! Odit officia reprehenderit deleniti laudantium doloribus nobis cumque minus quasi iste nisi quis, dolorum, fuga saepe mollitia, ipsum quia a veritatis aliquam dolore voluptatem tenetur! Corporis quidem hic molestiae dolor libero excepturi, ab ratione sunt cupiditate illum amet.",
+      "tags": [
+        "css",
+        "coding",
+        "news"
+      ]
+    }
+  ]
+}
